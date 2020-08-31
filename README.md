@@ -1,2 +1,2 @@
 # 3D-Ball-Game
-Short Unity game I made
+This was a short Unity game I made. The user controls a ball and can move around the level, collecting points as you roll through objects. 
